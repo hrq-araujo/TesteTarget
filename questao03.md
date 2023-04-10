@@ -19,9 +19,9 @@ R: 100.
 2² -> 4², 6² -> 8² ... (2x²)
 
 e) 1, 1, 2, 3, 5, 8, ____
-R: 13
+R: 13.
 É a sequência de fibonacci.
 
 f) 2, 10, 12, 16, 17, 18, 19, ____
-R: 200
+R: 200.
 Números inteiros que começam com a letra D.
